@@ -21,4 +21,10 @@ Espaço
 Mouse
 
 
+#Link para a versão Web*
+https://barretogabriel1.github.io/GameMind_Web/
+
+*Utilizar em tela cheia.
+
+
 
